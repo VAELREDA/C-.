@@ -1,0 +1,8 @@
+C:\Users\dell\Desktop\C#\vize  final ort\vize  final ort\bin\Debug\vize  final ort.exe.config
+C:\Users\dell\Desktop\C#\vize  final ort\vize  final ort\bin\Debug\vize  final ort.exe
+C:\Users\dell\Desktop\C#\vize  final ort\vize  final ort\bin\Debug\vize  final ort.pdb
+C:\Users\dell\Desktop\C#\vize  final ort\vize  final ort\obj\Debug\vize  final ort.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\C#\vize  final ort\vize  final ort\obj\Debug\vize  final ort.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\C#\vize  final ort\vize  final ort\obj\Debug\vize  final ort.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\vize  final ort\vize  final ort\obj\Debug\vize  final ort.exe
+C:\Users\dell\Desktop\C#\vize  final ort\vize  final ort\obj\Debug\vize  final ort.pdb
