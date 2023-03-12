@@ -1,0 +1,11 @@
+D:\C#\VİZE FİNAL PROGRAMI.,\VİZE FİNAL PROGRAMI.,\bin\Debug\VİZE FİNAL PROGRAMI.,.exe.config
+D:\C#\VİZE FİNAL PROGRAMI.,\VİZE FİNAL PROGRAMI.,\bin\Debug\VİZE FİNAL PROGRAMI.,.exe
+D:\C#\VİZE FİNAL PROGRAMI.,\VİZE FİNAL PROGRAMI.,\bin\Debug\VİZE FİNAL PROGRAMI.,.pdb
+D:\C#\VİZE FİNAL PROGRAMI.,\VİZE FİNAL PROGRAMI.,\obj\Debug\VİZE FİNAL PROGRAMI.,.csproj.AssemblyReference.cache
+D:\C#\VİZE FİNAL PROGRAMI.,\VİZE FİNAL PROGRAMI.,\obj\Debug\VİZE FİNAL PROGRAMI.,.csproj.SuggestedBindingRedirects.cache
+D:\C#\VİZE FİNAL PROGRAMI.,\VİZE FİNAL PROGRAMI.,\obj\Debug\VİZE_FİNAL_PROGRAMI._.Form1.resources
+D:\C#\VİZE FİNAL PROGRAMI.,\VİZE FİNAL PROGRAMI.,\obj\Debug\VİZE_FİNAL_PROGRAMI._.Properties.Resources.resources
+D:\C#\VİZE FİNAL PROGRAMI.,\VİZE FİNAL PROGRAMI.,\obj\Debug\VİZE FİNAL PROGRAMI.,.csproj.GenerateResource.cache
+D:\C#\VİZE FİNAL PROGRAMI.,\VİZE FİNAL PROGRAMI.,\obj\Debug\VİZE FİNAL PROGRAMI.,.csproj.CoreCompileInputs.cache
+D:\C#\VİZE FİNAL PROGRAMI.,\VİZE FİNAL PROGRAMI.,\obj\Debug\VİZE FİNAL PROGRAMI.,.exe
+D:\C#\VİZE FİNAL PROGRAMI.,\VİZE FİNAL PROGRAMI.,\obj\Debug\VİZE FİNAL PROGRAMI.,.pdb
